@@ -1,0 +1,8 @@
+#!python3
+# Preparando o MySQL
+try:
+    from mysql import connector
+except ModuleNotFoundError:
+    print('MySQL Connector não instalado!')
+else:
+    print('MySQL Connector instalado e pronto!')
