@@ -1,0 +1,8 @@
+{
+    "resource": "123",
+    "httpMethod": "GET",
+    "queryStringParameters": {
+        "placa" : "xpto215"
+    },
+    "placa" : "xpto215"
+}

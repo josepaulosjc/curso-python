@@ -1,0 +1,20 @@
+{
+    "carros": 
+    [
+        {
+            "placa" : "xpto215",
+            "marca":  "vw",
+            "modelo": "up",
+            "cor": "preto",
+            "ano": "2019"
+        },
+        {
+            "placa" : "abcd415",
+            "marca":  "gm",
+            "modelo": "spin",
+            "cor": "branco",
+            "ano": "2020",
+            "obs": "Batido na trazeira"
+        }
+    ]
+}
