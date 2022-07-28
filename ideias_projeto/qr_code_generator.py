@@ -4,7 +4,8 @@ from PIL import Image
 import qrcode
 
 #item que estara embutido no qrcode
-url = 'https://www.elo7.com.br/personalizeprodutospersonalizados'
+# url = 'https://www.elo7.com.br/personalizeprodutospersonalizados'
+url = 'https://linktr.ee/joyamancio'
 
 qr = qrcode.QRCode(
     version=1,
